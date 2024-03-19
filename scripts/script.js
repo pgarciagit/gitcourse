@@ -1,1 +1,1 @@
-alert("This is your new project")
+console.log("This is your new project")
